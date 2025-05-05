@@ -1,5 +1,8 @@
 # Design-6T-SRAM-16x8
-
+Digital Circuit Design Course Project  
+Authors:  
+Doan Dang Quang  
+Le Minh Hung
 
 ## Reference
 
