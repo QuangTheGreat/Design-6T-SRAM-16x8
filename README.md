@@ -4,6 +4,12 @@ Authors:
 Doan Dang Quang  
 Le Minh Hung
 
+## SRAM Simulation Result
+
+
+![SRAM Waveform](image/test_sram_1.png)
+
+
 ## Reference
 
 [1] Y. Alekhya and J. Sudhakar, “Design Analysis of SRAM Cell with Improved 
