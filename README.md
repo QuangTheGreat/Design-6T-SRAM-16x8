@@ -8,7 +8,7 @@ Le Minh Hung
 
 
 ![SRAM Waveform](image/test_sram_1.png)
-
+CLK - EN - WE - RE - ADDR[1:0] - iData[4:0] oData[4:0] (ADDR[3:2] ='10' , iData[7:5] = '111' unchanged)
 
 ## Reference
 
